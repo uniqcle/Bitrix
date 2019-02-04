@@ -1,5 +1,4 @@
 # Bitrix
 
 
-**Жирный шрифт**
-***Наклонный жирный***
+**[Битрикс Теория](https://github.com/uniqcle/Bitrix/wiki)**
