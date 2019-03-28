@@ -1,0 +1,14 @@
+.order-btn-small{
+	background-color: #FFCF52;
+	color: white;
+
+	border: none;
+    padding: 6px 5px;
+    font-size: 10px;
+    text-transform: uppercase;
+    border-color: #FFCF52;
+    border-width: 1px;
+    border-radius: 3px;
+ 
+
+}
